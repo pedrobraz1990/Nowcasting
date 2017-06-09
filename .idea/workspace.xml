@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Nowcasting - MARSS-2-Not using magic-DS3-Erase-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3-Erase.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Monotonicity/actuals.csv" afterPath="$PROJECT_DIR$/Monotonicity/actuals.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Monotonicity/forecasts.csv" afterPath="$PROJECT_DIR$/Monotonicity/forecasts.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3.ipynb" afterPath="$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +40,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -50,161 +54,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.ipynb_checkpoints/Nowcasting - MARSS-2-Not using magic-DS3-checkpoint.ipynb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3.ipynb</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/MonoTests.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/Bonferroni_MR_test1.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/F-F_Research_Data_Factors.xls</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/MR_test_22.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/MR_test_22_simple.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/MR_test_SLOPE_2.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/MR_test_for_dummies_100.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/MR_up_down_test_20.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/PT08_data_ALL.xls</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/SB_variance.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/bt_a_10_vw.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/constrained_mean.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/fama_files.xls</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/mprint.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/newey_west.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/nines.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/nwest.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/sgn.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/sorts_example_code_100.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/stat_bootstrap_function_21.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/stationary_bootstrap.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/weighted_chi2cdf.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/Patton_Timmermann_MR_test_toolbox/wolak_test_3.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/actuals.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/bounds_tests_example_code_1.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/bounds_tests_function_40nan_simple.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/forecasts.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/ineqtest.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/isposdef.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/mprint.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/nannewey_west.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/newey_west.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/nwest.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/ols.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/out.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/waldweight.m</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Monotonicity/wolak_test_kan_1.m</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,7 +92,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2603939" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26586434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260393" sideWeight="0.50437635" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
