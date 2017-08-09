@@ -140,6 +140,8 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n):
         #            'priors': pd.DataFrame(priors)}
     }
 
+
+
 def getPdfValue(value, dist, mean, variance):
     if dist == "Normal":
         return norm.pdf(value, mean, variance)
@@ -176,6 +178,47 @@ def posteriori(priorsTable, theta, Z, T, Q, H, R, y, coefs, coefsIndex):
     return post + ll
 
 def wrapper2(coefs, Z, T, Q, H, R, y, coefsIndex):
+    coefs = pd.Series(coefs, index=coefsIndex)
+
+    for i in range(0, coefs.size):
+        Z.replace(coefs.index[i], coefs.iloc[i], inplace=True)
+        T.replace(coefs.index[i], coefs.iloc[i], inplace=True)
+        Q.replace(coefs.index[i], coefs.iloc[i], inplace=True)
+        H.replace(coefs.index[i], coefs.iloc[i], inplace=True)
+
+    # Z.replace(coefsIndex[i],coefs[i],inplace=True)
+    #         T.replace(coefsIndex[i],coefs[i],inplace=True)
+    #         Q.replace(coefsIndex[i],coefs[i],inplace=True)
+    #         H.replace(coefsIndex[i],coefs[i],inplace=True)
+
+    Z.replace("2*BZGDYOY% Index_loading", 2 * coefs.loc["BZGDYOY% Index_loading"], inplace=True)
+    Z.replace("3*BZGDYOY% Index_loading", 3 * coefs.loc["BZGDYOY% Index_loading"], inplace=True)
+
+    m = Z.shape[1]
+    a1 = np.zeros((m))
+    P1 = np.ones((m, m)) * 0.5
+    nStates = m
+
+    y = np.array(y)
+    Z = np.array(Z)
+    H = np.array(H)
+    T = np.array(T)
+    Q = np.array(Q)
+    R = np.array(R)
+
+    return KalmanFilter2(
+        y=y.T,
+        nStates=nStates,
+        Z=Z,
+        H=H,
+        T=T,
+        Q=Q,
+        a1=a1,
+        P1=P1,
+        R=R,
+        export=True)
+
+def hardWrapper(coefs, Z, T, Q, H, R, y, coefsIndex):
     coefs = pd.Series(coefs, index=coefsIndex)
 
     for i in range(0, coefs.size):

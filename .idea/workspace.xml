@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/H" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Q" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/T" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Z" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PerformanceTestPickles/y" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TargetProcessingTimeCalculation.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hist.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/program.prof" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample20k.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianPerformanceTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProfileCommands.bat" />
+    <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="Implemented parallel bayesian">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable1.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable2.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable3.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable4.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianResults/posterior_n20000_priors1_bkp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Nowcasting - BayesianApproach-NumpyAndHardWrapper.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/H" afterPath="$PROJECT_DIR$/PerformanceTestPickles/H" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Q" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Q" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/R" afterPath="$PROJECT_DIR$/PerformanceTestPickles/R" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/T" afterPath="$PROJECT_DIR$/PerformanceTestPickles/T" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Z" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Z" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" afterPath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/y" afterPath="$PROJECT_DIR$/PerformanceTestPickles/y" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PriorsTable.xlsx" afterPath="$PROJECT_DIR$/PriorsTable.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Nowcasting.iml" afterPath="$PROJECT_DIR$/.idea/Nowcasting.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TargetProcessingTimeCalculation.xlsx" afterPath="$PROJECT_DIR$/TargetProcessingTimeCalculation.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hist.png" afterPath="$PROJECT_DIR$/hist.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program.prof" afterPath="$PROJECT_DIR$/program.prof" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Nowcasting - MARSS-2-Not using magic-DS3-Final-Trial2-FullSample-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Nowcasting - MARSS-2-Not using magic-DS3-Final-Trial2-FullSample-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianPerformanceTest.py" afterPath="$PROJECT_DIR$/BayesianPerformanceTest.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" afterPath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ProfileCommands.bat" afterPath="$PROJECT_DIR$/BayesianProfileCommands.bat" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,24 +35,36 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BayesianPerformanceTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BayesianPerformanceTest_numpyAndHardWrapper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="294" column="7" lean-forward="true" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+            <state relative-caret-position="200">
+              <caret line="404" column="18" lean-forward="true" selection-start-line="404" selection-start-column="18" selection-end-line="404" selection-end-column="18" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <element signature="e#3982#4108#0" expanded="false" />
-                <element signature="e#5454#6610#0" expanded="false" />
-                <element signature="e#6680#9217#0" expanded="false" />
+                <element signature="e#2561#2676#0" expanded="false" />
+                <element signature="e#3952#3988#0" expanded="false" />
+                <element signature="e#4104#4141#0" expanded="false" />
+                <element signature="e#4252#4378#0" expanded="false" />
+                <element signature="e#4450#5768#0" expanded="false" />
+                <element signature="e#5507#5603#0" expanded="false" />
+                <element signature="e#5828#7092#0" expanded="false" />
+                <element signature="e#7149#8305#0" expanded="false" />
+                <element signature="e#8375#10914#0" expanded="false" />
+                <element signature="e#9173#10608#0" expanded="false" />
+                <element signature="e#9300#10330#0" expanded="false" />
+                <element signature="e#9327#9781#0" expanded="false" />
+                <element signature="e#9816#10211#0" expanded="false" />
+                <element signature="e#10256#10330#0" expanded="false" />
+                <element signature="e#10671#10884#0" expanded="false" />
+                <element signature="e#10782#10884#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProfileCommands.bat" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProfileCommands.bat">
+      <file leaf-file-name="BayesianProfileCommands.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
@@ -76,6 +93,8 @@
       <list>
         <option value="$PROJECT_DIR$/ProfileCommands.bat" />
         <option value="$PROJECT_DIR$/BayesianPerformanceTest.py" />
+        <option value="$PROJECT_DIR$/BayesianProfileCommands.bat" />
+        <option value="$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
       </list>
     </option>
   </component>
@@ -100,6 +119,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -114,13 +134,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BayesianEconometrics" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="O:\SALES\Fundos de Mercado\Pedro Mattos\Notebooks\Nowcasting" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BayesianPerformanceTest">
+  <component name="RunManager" selected="Python.BayesianPerformanceTest_numpyAndHardWrapper">
     <configuration default="false" name="BayesianPerformanceTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,6 +172,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Nowcasting" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BayesianPerformanceTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BayesianPerformanceTest_numpyAndHardWrapper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Nowcasting" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,12 +260,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest_numpyAndHardWrapper" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest_numpyAndHardWrapper" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,20 +320,27 @@
       <option name="project" value="LOCAL" />
       <updated>1502145427788</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Performance Testing">
+      <created>1502229306251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1502229306251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32275712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3380744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260393" sideWeight="0.50437635" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260393" sideWeight="0.49562362" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36105034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -330,20 +381,36 @@
     <MESSAGE value="Updated implementing Bayesian Approach" />
     <MESSAGE value="Added Priors Table" />
     <MESSAGE value="Performance Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Performance Testing" />
+    <MESSAGE value="Implemented parallel bayesian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented parallel bayesian" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BayesianPerformanceTest.py</url>
-          <line>191</line>
+          <line>193</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BayesianPerformanceTest.py</url>
-          <line>178</line>
+          <line>180</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -353,38 +420,144 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="Z.shape" language="Python" />
-        <watch expression="coefs.size" language="Python" />
-        <watch expression="coefs.index[i]" />
-        <watch expression="coefs.iloc[i]" />
-        <watch expression="np.array(Z)" language="Python" />
-        <watch expression="coefs[0]" language="Python" />
+        <watch expression="theta" />
+        <watch expression="theta.shape" language="Python" />
+        <watch expression="priorsTable.shape" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="294" column="7" lean-forward="true" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#3982#4108#0" expanded="false" />
-            <element signature="e#5454#6610#0" expanded="false" />
-            <element signature="e#6680#9217#0" expanded="false" />
+            <element signature="e#2561#2676#0" expanded="false" />
+            <element signature="e#3952#3988#0" expanded="false" />
+            <element signature="e#4104#4141#0" expanded="false" />
+            <element signature="e#4252#4378#0" expanded="false" />
+            <element signature="e#4450#5768#0" expanded="false" />
+            <element signature="e#5507#5603#0" expanded="false" />
+            <element signature="e#5828#7092#0" expanded="false" />
+            <element signature="e#7149#8305#0" expanded="false" />
+            <element signature="e#8375#10914#0" expanded="false" />
+            <element signature="e#9173#10608#0" expanded="false" />
+            <element signature="e#9300#10330#0" expanded="false" />
+            <element signature="e#9327#9781#0" expanded="false" />
+            <element signature="e#9816#10211#0" expanded="false" />
+            <element signature="e#10256#10330#0" expanded="false" />
+            <element signature="e#10671#10884#0" expanded="false" />
+            <element signature="e#10782#10884#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProfileCommands.bat">
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="294" column="7" lean-forward="false" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" column="7" lean-forward="true" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="404" column="18" lean-forward="true" selection-start-line="404" selection-start-column="18" selection-end-line="404" selection-end-column="18" />
+          <folding>
+            <element signature="e#2561#2676#0" expanded="false" />
+            <element signature="e#3952#3988#0" expanded="false" />
+            <element signature="e#4104#4141#0" expanded="false" />
+            <element signature="e#4252#4378#0" expanded="false" />
+            <element signature="e#4450#5768#0" expanded="false" />
+            <element signature="e#5507#5603#0" expanded="false" />
+            <element signature="e#5828#7092#0" expanded="false" />
+            <element signature="e#7149#8305#0" expanded="false" />
+            <element signature="e#8375#10914#0" expanded="false" />
+            <element signature="e#9173#10608#0" expanded="false" />
+            <element signature="e#9300#10330#0" expanded="false" />
+            <element signature="e#9327#9781#0" expanded="false" />
+            <element signature="e#9816#10211#0" expanded="false" />
+            <element signature="e#10256#10330#0" expanded="false" />
+            <element signature="e#10671#10884#0" expanded="false" />
+            <element signature="e#10782#10884#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
