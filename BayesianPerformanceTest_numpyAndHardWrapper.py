@@ -26,6 +26,10 @@ from scipy.stats import chi2
 from pykalman import KalmanFilter as pykalman_KF
 from numpy import ma
 
+from multiprocessing import Pool
+from multiprocessing import Process
+from multiprocessing import Semaphore
+
 # pd.set_option('max_rows', 20)
 pd.set_option('max_rows', 100)
 
@@ -63,9 +67,11 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n, name):
     accept = np.zeros(n)
 
     initialCoefs = pd.Series(0.1, index=coefsIndex)
+    initialCoefs = pd.Series(priorsTable['initialValues'], index=coefsIndex)
+
 
     # Tentativa de fazer com transformacao exponencial
-    initialCoefs[priorsTable["distribution"] == 'Chi'] = np.log(0.1)
+    initialCoefs[priorsTable["distribution"] == 'Chi'] = np.log(initialCoefs[priorsTable["distribution"] == 'Chi'])
 
     temp = initialCoefs.copy()
 
@@ -142,6 +148,7 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n, name):
     coefs = coefs.T
 
     name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
+    coefs.reset_index(drop=True,inplace=True)
     coefs.to_pickle(name)
     return {
         'posterior': coefs,
@@ -381,11 +388,9 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
 
 
 # In parallel
-from multiprocessing import Pool
-from multiprocessing import Process
 
 if __name__ == '__main__':
-    n = 300
+    n = 2000
 
     start_time = time.time()
 
@@ -400,33 +405,33 @@ if __name__ == '__main__':
 
     if parallel:
         print("Parallel Processing")
-        pool = Pool()
+
+        pool = Pool(processes=3)
+        # pool = Semaphore(2)
 
         priors = [
             "PriorsTable1",
             "PriorsTable2",
             "PriorsTable3",
             "PriorsTable4",
-            # "PriorsTable5",
+            "PriorsTable5",
         ]
         jobs = []
         for priorName in priors:
-
             priorsTable = pd.read_excel('./BayesianResults/{name}.xlsx'.format(name=priorName))
-            t = Process(target = MH, args = (priorsTable,Z, T, Q, H, R,y, coefsIndex, n,priorName))
-            t.start()
-            jobs.append(t)
+            pool.apply_async(func = MH, args = (priorsTable,Z, T, Q, H, R,y, coefsIndex, n,priorName))
 
-        for job in jobs:
-            job.join()
+        pool.close()
+        pool.join()
 
-        # priorsTable = pd.read_excel('./BayesianResults/PriorsTable1.xlsx')
-        # # result1 = pool.apply_async(MH, (priorsTable,Z, T, Q, H, R,y, coefsIndex, n,'priors1'))
-        # priorsTable = pd.read_excel('./BayesianResults/PriorsTable2.xlsx')
-        # t2 = Process(target = MH, args = (priorsTable,Z, T, Q, H, R,y, coefsIndex, n,'priors2'))
-        # t2.start()
-        # t1.join()
-        # t2.join()
+        #     priorsTable = pd.read_excel('./BayesianResults/{name}.xlsx'.format(name=priorName))
+        #     t = Process(target = MH, args = (priorsTable,Z, T, Q, H, R,y, coefsIndex, n,priorName))
+        #     t.start()
+        #     jobs.append(t)
+        #
+        # for job in jobs:
+        #     job.join()
+
 
     print("--- %s seconds ---" % (time.time() - start_time))
     print("Done !")
