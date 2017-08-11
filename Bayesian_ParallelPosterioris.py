@@ -320,7 +320,7 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
     T = np.array(T.astype(float))  # Should be M x M
     Q = np.array(Q.astype(float))  # (RxR)
     a = np.empty((n + 1, p + 1, m))  # each alpha t,i is mx1
-    a[0, 0, :] = np.array(a1.astype(float)).ravel()  # TODO Check a1 dimension
+    a[0, 0, :] = np.array(a1.astype(float)).ravel()
     P = np.empty((n + 1, p + 1, m, m))
     P[0, 0, :, :] = np.array(P1.astype(float))
     v = np.empty((n, p))
@@ -377,6 +377,7 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
         y = pd.DataFrame(y)
         return {'states' : states,
                 'yhat' : yhat,
+                'prediction': yhat,
                 'y' : y,
                 'll' : ll}
     else:
