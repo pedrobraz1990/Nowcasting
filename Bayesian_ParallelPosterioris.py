@@ -391,7 +391,7 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
 # In parallel
 
 if __name__ == '__main__':
-    n = 30000
+    n = 1000
 
     start_time = time.time()
 
