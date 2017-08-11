@@ -391,7 +391,7 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
 # In parallel
 
 if __name__ == '__main__':
-    n = 1000
+    n = 2000
 
     start_time = time.time()
 
@@ -412,10 +412,10 @@ if __name__ == '__main__':
 
         priors = [
             "PriorsTable1",
-            "PriorsTable2",
-            "PriorsTable3",
-            "PriorsTable4",
-            "PriorsTable5",
+            # "PriorsTable2",
+            # "PriorsTable3",
+            # "PriorsTable4",
+            # "PriorsTable5",
         ]
         jobs = []
         for priorName in priors:
