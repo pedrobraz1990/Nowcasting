@@ -147,7 +147,7 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n, name):
     coefs[priorsTable["distribution"] == 'Chi'] = np.exp(coefs)[priorsTable["distribution"] == 'Chi']
     coefs = coefs.T
 
-    # name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
+    name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
     coefs.reset_index(drop=True,inplace=True)
     coefs.to_pickle(name)
     return {
@@ -320,7 +320,7 @@ def KalmanFilter2(y, nStates, Z, H, T, Q, a1, P1, R, export=False):
     T = np.array(T.astype(float))  # Should be M x M
     Q = np.array(Q.astype(float))  # (RxR)
     a = np.empty((n + 1, p + 1, m))  # each alpha t,i is mx1
-    a[0, 0, :] = np.array(a1.astype(float)).ravel()  # TODO Check a1 dimension
+    a[0, 0, :] = np.array(a1.astype(float)).ravel()
     P = np.empty((n + 1, p + 1, m, m))
     P[0, 0, :, :] = np.array(P1.astype(float))
     v = np.empty((n, p))
