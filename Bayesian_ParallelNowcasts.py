@@ -38,7 +38,7 @@ dataDetailsSheet = "Plan2"
 picklesDir = "./Pickles/"
 
 
-priorsTable = pd.read_pickle('./PerformanceTestPickles/priorsTable')
+# priorsTable = pd.read_pickle('./PerformanceTestPickles/priorsTable')
 Z = pd.read_pickle('./PerformanceTestPickles/Z')
 T = pd.read_pickle('./PerformanceTestPickles/T')
 Q = pd.read_pickle('./PerformanceTestPickles/Q')
@@ -147,7 +147,7 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n, name):
     coefs[priorsTable["distribution"] == 'Chi'] = np.exp(coefs)[priorsTable["distribution"] == 'Chi']
     coefs = coefs.T
 
-    name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
+    # name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
     coefs.reset_index(drop=True,inplace=True)
     coefs.to_pickle(name)
     return {
@@ -389,7 +389,7 @@ def loadDf(pubDate):
 
 def dumpResults(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2):
     start_time = time.time()
-    posterior = MH(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1)['posterior']
+    posterior = MH(priorsTable, Z, T, Q, H, R, cutY.T, coefsIndex, n, filename1)['posterior']
 
     cutY = np.array(cutY)
 
@@ -429,33 +429,32 @@ if __name__ == '__main__':
 
 ##### END - GENERATE THE STYLISED CALENDAR ####
 
-    n = 2000
-
     start_time = time.time()
 
     picklesDir = "./BayesianResults/Pickles/"
+    priorsTable = pd.read_excel("./BayesianResults/PriorsTable3.xlsx")
     Z = np.array(Z)
     H = np.array(H)
     T = np.array(T)
     Q = np.array(Q)
     R = np.array(R)
 
-    n = 2000
+    n = 300
 
 
     pool = Pool(processes=3)
 
     listOfResults = {}
-    for pubDate in pubDates[13:]:
+    for pubDate in pubDates[13:14]:
         filename1 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_posteriori.pickle"
         filename2 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_results.pickle"
         if not os.path.exists(filename2):
             print(pubDate)
             cutY = yn[yn.index.get_level_values("pubDate") <= pubDate].groupby(level="refDate").last()
             cutY = cutY.reindex(y.T.index)
-            #         pool.apply_async(func = MH, args = (priorsTable,Z, T, Q, H, R,cutY, coefsIndex, n,filename1))
-            pool.apply_async(func=dumpResults,
-                             args=(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2))
+            # pool.apply_async(func=dumpResults,
+            #                  args=(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2))
+            dumpResults(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2)
 
 
     pool.close()

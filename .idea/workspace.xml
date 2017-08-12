@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="">
+    <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="n=1000 test">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/posterior_n2000_PriorsTable1" afterPath="$PROJECT_DIR$/BayesianResults/posterior_n2000_PriorsTable1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/H" afterPath="$PROJECT_DIR$/PerformanceTestPickles/H" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Q" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Q" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/R" afterPath="$PROJECT_DIR$/PerformanceTestPickles/R" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/T" afterPath="$PROJECT_DIR$/PerformanceTestPickles/T" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Z" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Z" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" afterPath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/y" afterPath="$PROJECT_DIR$/PerformanceTestPickles/y" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hist.png" afterPath="$PROJECT_DIR$/hist.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" afterPath="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" afterPath="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" afterPath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,29 +33,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BayesianProfileCommands.bat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <file leaf-file-name="Bayesian_ParallelNowcasts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BayesianPerformanceTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="164">
+              <caret line="441" column="11" selection-start-line="441" selection-start-column="11" selection-end-line="441" selection-end-column="11" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <element signature="e#1216#3930#0" expanded="false" />
-                <element signature="e#3984#4110#0" expanded="false" />
-                <element signature="e#4189#5399#0" expanded="false" />
-                <element signature="e#5456#6612#0" expanded="false" />
-                <element signature="e#6672#7828#0" expanded="false" />
-                <element signature="e#7898#10435#0" expanded="false" />
+                <element signature="e#2106#2190#0" expanded="false" />
+                <element signature="e#2350#3799#0" expanded="false" />
+                <element signature="e#2796#2911#0" expanded="false" />
+                <element signature="e#3517#3637#0" expanded="false" />
+                <element signature="e#3664#3799#0" expanded="false" />
+                <element signature="e#4235#4271#0" expanded="false" />
+                <element signature="e#4387#4424#0" expanded="false" />
+                <element signature="e#4535#4661#0" expanded="false" />
+                <element signature="e#4733#6051#0" expanded="false" />
+                <element signature="e#4829#5471#0" expanded="false" />
+                <element signature="e#4829#4854#0" expanded="false" />
+                <element signature="e#5477#5574#0" expanded="false" />
+                <element signature="e#5790#5886#0" expanded="false" />
+                <element signature="e#6111#7375#0" expanded="false" />
+                <element signature="e#6111#6155#0" expanded="false" />
+                <element signature="e#6541#6581#0" expanded="false" />
+                <element signature="e#6793#6834#0" expanded="false" />
+                <element signature="e#7009#7060#0" expanded="false" />
+                <element signature="e#7432#8588#0" expanded="false" />
+                <element signature="e#7519#7762#0" expanded="false" />
+                <element signature="e#7768#7816#0" expanded="false" />
+                <element signature="e#8658#11231#0" expanded="false" />
+                <element signature="e#9456#10891#0" expanded="false" />
+                <element signature="e#9583#10613#0" expanded="false" />
+                <element signature="e#9610#10064#0" expanded="false" />
+                <element signature="e#10099#10494#0" expanded="false" />
+                <element signature="e#10539#10613#0" expanded="false" />
+                <element signature="e#10954#11203#0" expanded="false" />
+                <element signature="e#11065#11203#0" expanded="false" />
+                <element signature="e#11258#11367#0" expanded="false" />
+                <element signature="e#12247#12614#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -53,8 +78,8 @@
       <file leaf-file-name="Bayesian_ParallelPosterioris.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bayesian_ParallelPosterioris.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="393" column="9" selection-start-line="393" selection-start-column="9" selection-end-line="393" selection-end-column="9" />
+            <state relative-caret-position="74">
+              <caret line="393" column="10" selection-start-line="393" selection-start-column="10" selection-end-line="393" selection-end-column="10" />
               <folding>
                 <element signature="e#2104#2188#0" expanded="false" />
                 <element signature="e#2348#3797#0" expanded="false" />
@@ -91,53 +116,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bayesian_ParallelNowcasts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-              <folding>
-                <element signature="e#1343#4479#0" expanded="false" />
-                <element signature="e#2104#2188#0" expanded="false" />
-                <element signature="e#2348#3797#0" expanded="false" />
-                <element signature="e#2794#2909#0" expanded="false" />
-                <element signature="e#3515#3635#0" expanded="false" />
-                <element signature="e#3662#3797#0" expanded="false" />
-                <element signature="e#4135#4479#0" expanded="false" />
-                <element signature="e#4231#4267#0" expanded="false" />
-                <element signature="e#4383#4420#0" expanded="false" />
-                <element signature="e#4531#4657#0" expanded="false" />
-                <element signature="e#4729#6047#0" expanded="false" />
-                <element signature="e#4825#5467#0" expanded="false" />
-                <element signature="e#4825#4850#0" expanded="false" />
-                <element signature="e#5473#5570#0" expanded="false" />
-                <element signature="e#5786#5882#0" expanded="false" />
-                <element signature="e#6107#7371#0" expanded="false" />
-                <element signature="e#6107#6151#0" expanded="false" />
-                <element signature="e#6537#6577#0" expanded="false" />
-                <element signature="e#6789#6830#0" expanded="false" />
-                <element signature="e#7005#7056#0" expanded="false" />
-                <element signature="e#7428#8584#0" expanded="false" />
-                <element signature="e#7515#7758#0" expanded="false" />
-                <element signature="e#7764#7812#0" expanded="false" />
-                <element signature="e#8654#11227#0" expanded="false" />
-                <element signature="e#9452#10887#0" expanded="false" />
-                <element signature="e#9579#10609#0" expanded="false" />
-                <element signature="e#9606#10060#0" expanded="false" />
-                <element signature="e#10095#10490#0" expanded="false" />
-                <element signature="e#10535#10609#0" expanded="false" />
-                <element signature="e#10950#11199#0" expanded="false" />
-                <element signature="e#11061#11199#0" expanded="false" />
-                <element signature="e#11254#11363#0" expanded="false" />
-                <element signature="e#11944#13900#0" expanded="false" />
-                <element signature="e#12241#12608#0" expanded="false" />
-                <element signature="e#13132#13775#0" expanded="false" />
-                <element signature="e#13345#13775#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -160,6 +138,7 @@
         <option value="$PROJECT_DIR$/BayesianPerformanceTest.py" />
         <option value="$PROJECT_DIR$/BayesianProfileCommands.bat" />
         <option value="$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+        <option value="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" />
         <option value="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" />
       </list>
     </option>
@@ -194,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,6 +194,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bayesian_ParallelPosterioris">
+  <component name="RunManager" selected="Python.Bayesian_ParallelNowcasts">
     <configuration default="false" name="BayesianPerformanceTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,6 +268,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Nowcasting" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Bayesian_ParallelNowcasts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Nowcasting" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -427,16 +423,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
       <item index="1" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest_numpyAndHardWrapper" />
       <item index="2" class="java.lang.String" itemvalue="Python.Bayesian_ParallelPosterioris" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Bayesian_ParallelNowcasts" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.Bayesian_ParallelPosterioris" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest_numpyAndHardWrapper" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.Bayesian_ParallelNowcasts" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Bayesian_ParallelPosterioris" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest_numpyAndHardWrapper" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BayesianPerformanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502491612124</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="n=1000 test">
+      <created>1502491720295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1502491720295</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,13 +539,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.50656456" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3306321" sideWeight="0.49562362" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3306321" sideWeight="0.49343544" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39708266" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -607,6 +612,11 @@
           <line>180</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py</url>
+          <line>456</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -615,22 +625,62 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="theta" />
-        <watch expression="theta.shape" language="Python" />
-        <watch expression="priorsTable.shape" language="Python" />
+        <watch expression="name" />
+        <watch expression="posterior" />
+        <watch expression="posterior.median()" />
+        <watch expression="coefs" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2106#2190#0" expanded="false" />
+            <element signature="e#2350#3799#0" expanded="false" />
+            <element signature="e#2796#2911#0" expanded="false" />
+            <element signature="e#3517#3637#0" expanded="false" />
+            <element signature="e#3664#3799#0" expanded="false" />
+            <element signature="e#4235#4271#0" expanded="false" />
+            <element signature="e#4387#4424#0" expanded="false" />
+            <element signature="e#4535#4661#0" expanded="false" />
+            <element signature="e#4733#6051#0" expanded="false" />
+            <element signature="e#4829#5471#0" expanded="false" />
+            <element signature="e#4829#4854#0" expanded="false" />
+            <element signature="e#5477#5574#0" expanded="false" />
+            <element signature="e#5790#5886#0" expanded="false" />
+            <element signature="e#6111#7375#0" expanded="false" />
+            <element signature="e#6111#6155#0" expanded="false" />
+            <element signature="e#6541#6581#0" expanded="false" />
+            <element signature="e#6793#6834#0" expanded="false" />
+            <element signature="e#7009#7060#0" expanded="false" />
+            <element signature="e#7432#8588#0" expanded="false" />
+            <element signature="e#7519#7762#0" expanded="false" />
+            <element signature="e#7768#7816#0" expanded="false" />
+            <element signature="e#8658#11231#0" expanded="false" />
+            <element signature="e#9456#10891#0" expanded="false" />
+            <element signature="e#9583#10613#0" expanded="false" />
+            <element signature="e#9610#10064#0" expanded="false" />
+            <element signature="e#10099#10494#0" expanded="false" />
+            <element signature="e#10539#10613#0" expanded="false" />
+            <element signature="e#10954#11203#0" expanded="false" />
+            <element signature="e#11065#11203#0" expanded="false" />
+            <element signature="e#11258#11367#0" expanded="false" />
+            <element signature="e#12247#12614#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +689,7 @@
         <state relative-caret-position="480">
           <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
             <element signature="e#1216#3930#0" expanded="false" />
             <element signature="e#3984#4110#0" expanded="false" />
             <element signature="e#4189#5399#0" expanded="false" />
@@ -694,13 +744,74 @@
         <state relative-caret-position="495">
           <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
           <folding>
-            <element signature="e#1343#4479#0" expanded="false" />
+            <element signature="e#2106#2190#0" expanded="false" />
+            <element signature="e#2350#3799#0" expanded="false" />
+            <element signature="e#2796#2911#0" expanded="false" />
+            <element signature="e#3517#3637#0" expanded="false" />
+            <element signature="e#3664#3799#0" expanded="false" />
+            <element signature="e#4235#4271#0" expanded="false" />
+            <element signature="e#4387#4424#0" expanded="false" />
+            <element signature="e#4535#4661#0" expanded="false" />
+            <element signature="e#4733#6051#0" expanded="false" />
+            <element signature="e#4829#5471#0" expanded="false" />
+            <element signature="e#4829#4854#0" expanded="false" />
+            <element signature="e#5477#5574#0" expanded="false" />
+            <element signature="e#5790#5886#0" expanded="false" />
+            <element signature="e#6111#7375#0" expanded="false" />
+            <element signature="e#6111#6155#0" expanded="false" />
+            <element signature="e#6541#6581#0" expanded="false" />
+            <element signature="e#6793#6834#0" expanded="false" />
+            <element signature="e#7009#7060#0" expanded="false" />
+            <element signature="e#7432#8588#0" expanded="false" />
+            <element signature="e#7519#7762#0" expanded="false" />
+            <element signature="e#7768#7816#0" expanded="false" />
+            <element signature="e#8658#11231#0" expanded="false" />
+            <element signature="e#9456#10891#0" expanded="false" />
+            <element signature="e#9583#10613#0" expanded="false" />
+            <element signature="e#9610#10064#0" expanded="false" />
+            <element signature="e#10099#10494#0" expanded="false" />
+            <element signature="e#10539#10613#0" expanded="false" />
+            <element signature="e#10954#11203#0" expanded="false" />
+            <element signature="e#11065#11203#0" expanded="false" />
+            <element signature="e#11258#11367#0" expanded="false" />
+            <element signature="e#12247#12614#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bayesian_ParallelPosterioris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
             <element signature="e#2104#2188#0" expanded="false" />
             <element signature="e#2348#3797#0" expanded="false" />
             <element signature="e#2794#2909#0" expanded="false" />
             <element signature="e#3515#3635#0" expanded="false" />
             <element signature="e#3662#3797#0" expanded="false" />
-            <element signature="e#4135#4479#0" expanded="false" />
             <element signature="e#4231#4267#0" expanded="false" />
             <element signature="e#4383#4420#0" expanded="false" />
             <element signature="e#4531#4657#0" expanded="false" />
@@ -717,164 +828,15 @@
             <element signature="e#7428#8584#0" expanded="false" />
             <element signature="e#7515#7758#0" expanded="false" />
             <element signature="e#7764#7812#0" expanded="false" />
-            <element signature="e#8654#11227#0" expanded="false" />
-            <element signature="e#9452#10887#0" expanded="false" />
-            <element signature="e#9579#10609#0" expanded="false" />
-            <element signature="e#9606#10060#0" expanded="false" />
-            <element signature="e#10095#10490#0" expanded="false" />
-            <element signature="e#10535#10609#0" expanded="false" />
-            <element signature="e#10950#11199#0" expanded="false" />
-            <element signature="e#11061#11199#0" expanded="false" />
-            <element signature="e#11254#11363#0" expanded="false" />
-            <element signature="e#11944#13900#0" expanded="false" />
-            <element signature="e#12241#12608#0" expanded="false" />
-            <element signature="e#13132#13775#0" expanded="false" />
-            <element signature="e#13345#13775#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3009">
-          <caret line="294" column="7" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#1216#3930#0" expanded="false" />
-            <element signature="e#3984#4110#0" expanded="false" />
-            <element signature="e#4189#5399#0" expanded="false" />
-            <element signature="e#5456#6612#0" expanded="false" />
-            <element signature="e#6672#7828#0" expanded="false" />
-            <element signature="e#7898#10435#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="294" column="7" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#1216#3930#0" expanded="false" />
-            <element signature="e#3984#4110#0" expanded="false" />
-            <element signature="e#4189#5399#0" expanded="false" />
-            <element signature="e#5456#6612#0" expanded="false" />
-            <element signature="e#6672#7828#0" expanded="false" />
-            <element signature="e#7898#10435#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
-    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#1216#3930#0" expanded="false" />
-            <element signature="e#3984#4110#0" expanded="false" />
-            <element signature="e#4189#5399#0" expanded="false" />
-            <element signature="e#5456#6612#0" expanded="false" />
-            <element signature="e#6672#7828#0" expanded="false" />
-            <element signature="e#7898#10435#0" expanded="false" />
+            <element signature="e#8654#11202#0" expanded="false" />
+            <element signature="e#9425#10860#0" expanded="false" />
+            <element signature="e#9552#10582#0" expanded="false" />
+            <element signature="e#9579#10033#0" expanded="false" />
+            <element signature="e#10068#10463#0" expanded="false" />
+            <element signature="e#10508#10582#0" expanded="false" />
+            <element signature="e#10923#11172#0" expanded="false" />
+            <element signature="e#11034#11172#0" expanded="false" />
+            <element signature="e#11202#11211#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -884,50 +846,226 @@
         <state relative-caret-position="495">
           <caret line="388" column="0" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
           <folding>
-            <element signature="e#1343#4479#0" expanded="false" />
-            <element signature="e#2104#2188#0" expanded="false" />
-            <element signature="e#2348#3797#0" expanded="false" />
-            <element signature="e#2794#2909#0" expanded="false" />
-            <element signature="e#3515#3635#0" expanded="false" />
-            <element signature="e#3662#3797#0" expanded="false" />
-            <element signature="e#4135#4479#0" expanded="false" />
-            <element signature="e#4231#4267#0" expanded="false" />
-            <element signature="e#4383#4420#0" expanded="false" />
-            <element signature="e#4531#4657#0" expanded="false" />
-            <element signature="e#4729#6047#0" expanded="false" />
-            <element signature="e#4825#5467#0" expanded="false" />
-            <element signature="e#4825#4850#0" expanded="false" />
-            <element signature="e#5473#5570#0" expanded="false" />
-            <element signature="e#5786#5882#0" expanded="false" />
-            <element signature="e#6107#7371#0" expanded="false" />
-            <element signature="e#6107#6151#0" expanded="false" />
-            <element signature="e#6537#6577#0" expanded="false" />
-            <element signature="e#6789#6830#0" expanded="false" />
-            <element signature="e#7005#7056#0" expanded="false" />
-            <element signature="e#7428#8584#0" expanded="false" />
-            <element signature="e#7515#7758#0" expanded="false" />
-            <element signature="e#7764#7812#0" expanded="false" />
-            <element signature="e#8654#11227#0" expanded="false" />
-            <element signature="e#9452#10887#0" expanded="false" />
-            <element signature="e#9579#10609#0" expanded="false" />
-            <element signature="e#9606#10060#0" expanded="false" />
-            <element signature="e#10095#10490#0" expanded="false" />
-            <element signature="e#10535#10609#0" expanded="false" />
-            <element signature="e#10950#11199#0" expanded="false" />
-            <element signature="e#11061#11199#0" expanded="false" />
-            <element signature="e#11254#11363#0" expanded="false" />
-            <element signature="e#11944#13900#0" expanded="false" />
-            <element signature="e#12241#12608#0" expanded="false" />
-            <element signature="e#13132#13775#0" expanded="false" />
-            <element signature="e#13345#13775#0" expanded="false" />
+            <element signature="e#2106#2190#0" expanded="false" />
+            <element signature="e#2350#3799#0" expanded="false" />
+            <element signature="e#2796#2911#0" expanded="false" />
+            <element signature="e#3517#3637#0" expanded="false" />
+            <element signature="e#3664#3799#0" expanded="false" />
+            <element signature="e#4235#4271#0" expanded="false" />
+            <element signature="e#4387#4424#0" expanded="false" />
+            <element signature="e#4535#4661#0" expanded="false" />
+            <element signature="e#4733#6051#0" expanded="false" />
+            <element signature="e#4829#5471#0" expanded="false" />
+            <element signature="e#4829#4854#0" expanded="false" />
+            <element signature="e#5477#5574#0" expanded="false" />
+            <element signature="e#5790#5886#0" expanded="false" />
+            <element signature="e#6111#7375#0" expanded="false" />
+            <element signature="e#6111#6155#0" expanded="false" />
+            <element signature="e#6541#6581#0" expanded="false" />
+            <element signature="e#6793#6834#0" expanded="false" />
+            <element signature="e#7009#7060#0" expanded="false" />
+            <element signature="e#7432#8588#0" expanded="false" />
+            <element signature="e#7519#7762#0" expanded="false" />
+            <element signature="e#7768#7816#0" expanded="false" />
+            <element signature="e#8658#11231#0" expanded="false" />
+            <element signature="e#9456#10891#0" expanded="false" />
+            <element signature="e#9583#10613#0" expanded="false" />
+            <element signature="e#9610#10064#0" expanded="false" />
+            <element signature="e#10099#10494#0" expanded="false" />
+            <element signature="e#10539#10613#0" expanded="false" />
+            <element signature="e#10954#11203#0" expanded="false" />
+            <element signature="e#11065#11203#0" expanded="false" />
+            <element signature="e#11258#11367#0" expanded="false" />
+            <element signature="e#12247#12614#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="294" column="7" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" column="7" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest_numpyAndHardWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BayesianProfileCommands.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayesianPerformanceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#1216#3930#0" expanded="false" />
+            <element signature="e#3984#4110#0" expanded="false" />
+            <element signature="e#4189#5399#0" expanded="false" />
+            <element signature="e#5456#6612#0" expanded="false" />
+            <element signature="e#6672#7828#0" expanded="false" />
+            <element signature="e#7898#10435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="441" column="11" selection-start-line="441" selection-start-column="11" selection-end-line="441" selection-end-column="11" />
+          <folding>
+            <element signature="e#2106#2190#0" expanded="false" />
+            <element signature="e#2350#3799#0" expanded="false" />
+            <element signature="e#2796#2911#0" expanded="false" />
+            <element signature="e#3517#3637#0" expanded="false" />
+            <element signature="e#3664#3799#0" expanded="false" />
+            <element signature="e#4235#4271#0" expanded="false" />
+            <element signature="e#4387#4424#0" expanded="false" />
+            <element signature="e#4535#4661#0" expanded="false" />
+            <element signature="e#4733#6051#0" expanded="false" />
+            <element signature="e#4829#5471#0" expanded="false" />
+            <element signature="e#4829#4854#0" expanded="false" />
+            <element signature="e#5477#5574#0" expanded="false" />
+            <element signature="e#5790#5886#0" expanded="false" />
+            <element signature="e#6111#7375#0" expanded="false" />
+            <element signature="e#6111#6155#0" expanded="false" />
+            <element signature="e#6541#6581#0" expanded="false" />
+            <element signature="e#6793#6834#0" expanded="false" />
+            <element signature="e#7009#7060#0" expanded="false" />
+            <element signature="e#7432#8588#0" expanded="false" />
+            <element signature="e#7519#7762#0" expanded="false" />
+            <element signature="e#7768#7816#0" expanded="false" />
+            <element signature="e#8658#11231#0" expanded="false" />
+            <element signature="e#9456#10891#0" expanded="false" />
+            <element signature="e#9583#10613#0" expanded="false" />
+            <element signature="e#9610#10064#0" expanded="false" />
+            <element signature="e#10099#10494#0" expanded="false" />
+            <element signature="e#10539#10613#0" expanded="false" />
+            <element signature="e#10954#11203#0" expanded="false" />
+            <element signature="e#11065#11203#0" expanded="false" />
+            <element signature="e#11258#11367#0" expanded="false" />
+            <element signature="e#12247#12614#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bayesian_ParallelPosterioris.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="393" column="9" selection-start-line="393" selection-start-column="9" selection-end-line="393" selection-end-column="9" />
+        <state relative-caret-position="74">
+          <caret line="393" column="10" selection-start-line="393" selection-start-column="10" selection-end-line="393" selection-end-column="10" />
           <folding>
             <element signature="e#2104#2188#0" expanded="false" />
             <element signature="e#2348#3797#0" expanded="false" />
