@@ -452,9 +452,9 @@ if __name__ == '__main__':
             print(pubDate)
             cutY = yn[yn.index.get_level_values("pubDate") <= pubDate].groupby(level="refDate").last()
             cutY = cutY.reindex(y.T.index)
-            # pool.apply_async(func=dumpResults,
-            #                  args=(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2))
-            dumpResults(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2)
+            pool.apply_async(func=dumpResults,
+                             args=(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2))
+            # dumpResults(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2)
 
 
     pool.close()
