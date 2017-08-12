@@ -147,7 +147,7 @@ def MH(priorsTable, Z, T, Q, H, R, y, coefsIndex, n, name):
     coefs[priorsTable["distribution"] == 'Chi'] = np.exp(coefs)[priorsTable["distribution"] == 'Chi']
     coefs = coefs.T
 
-    name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
+    # name = './BayesianResults/posterior_n{n!s}_{name}'.format(n=n,name=name)
     coefs.reset_index(drop=True,inplace=True)
     coefs.to_pickle(name)
     return {
