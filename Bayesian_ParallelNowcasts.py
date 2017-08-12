@@ -439,13 +439,13 @@ if __name__ == '__main__':
     Q = np.array(Q)
     R = np.array(R)
 
-    n = 300
+    n = 50
 
 
-    pool = Pool(processes=3)
+    pool = Pool(processes=10)
 
     listOfResults = {}
-    for pubDate in pubDates[13:14]:
+    for pubDate in pubDates[13:1400]:
         filename1 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_posteriori.pickle"
         filename2 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_results.pickle"
         if not os.path.exists(filename2):
