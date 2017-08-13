@@ -439,7 +439,7 @@ if __name__ == '__main__':
     Q = np.array(Q)
     R = np.array(R)
 
-    n = 50
+    n = 700
 
 
     pool = Pool(processes=10)
