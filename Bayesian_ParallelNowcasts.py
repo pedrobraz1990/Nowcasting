@@ -445,7 +445,7 @@ if __name__ == '__main__':
     pool = Pool(processes=10)
 
     listOfResults = {}
-    for pubDate in pubDates[1400:]:
+    for pubDate in pubDates[13:1400]:
         filename1 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_posteriori.pickle"
         filename2 = picklesDir + pubDate.strftime('%Y-%m-%d') + "_results.pickle"
         if not os.path.exists(filename2):
