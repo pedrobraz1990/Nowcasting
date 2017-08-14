@@ -2,742 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbb7b76-8f3a-4486-92ae-df89952e0d8d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-22_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-22_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-03-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-04-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-05-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-06-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-07-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-08-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-09-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-10-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-11-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2015-12-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-01-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-02-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-09_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-09_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-16_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-16_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-31_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-03-31_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-04-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-05-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-06-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-07-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-08-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-09-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-10-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-11-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2016-12-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-01-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-02-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-22_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-22_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-03-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-01_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-01_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-02_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-02_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-07_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-07_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-10_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-10_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-12_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-12_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-13_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-13_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-14_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-14_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-17_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-17_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-19_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-19_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-21_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-21_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-25_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-25_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-29_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-04-29_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-08_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-08_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-11_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-11_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-15_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-15_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-20_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-20_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-30_posteriori.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BayesianResults/Pickles_n700/2017-05-30_results.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Nowcasting - BayesianApproach - Initial Tryouts.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PerformanceTestPickles/coefsIndex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PerformanceTestPickles/cutY" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/PriorsTable1.xlsx" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable1.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/PriorsTable2.xlsx" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable2.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/PriorsTable3.xlsx" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable3.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/PriorsTable4.xlsx" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable4.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/PriorsTable5.xlsx" afterPath="$PROJECT_DIR$/BayesianResults/PriorsTable5.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/posterior_n1000_PriorsTable1" afterPath="$PROJECT_DIR$/BayesianResults/posterior_n1000_PriorsTable1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianResults/posterior_n2000_PriorsTable1" afterPath="$PROJECT_DIR$/BayesianResults/posterior_n2000_PriorsTable1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/H" afterPath="$PROJECT_DIR$/PerformanceTestPickles/H" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Q" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Q" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/R" afterPath="$PROJECT_DIR$/PerformanceTestPickles/R" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/T" afterPath="$PROJECT_DIR$/PerformanceTestPickles/T" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/Z" afterPath="$PROJECT_DIR$/PerformanceTestPickles/Z" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" afterPath="$PROJECT_DIR$/PerformanceTestPickles/priorsTable" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PerformanceTestPickles/y" afterPath="$PROJECT_DIR$/PerformanceTestPickles/y" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Nowcasting.iml" afterPath="$PROJECT_DIR$/.idea/Nowcasting.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BayesianPerformanceTest_nowcastTrial.py" afterPath="$PROJECT_DIR$/BayesianPerformanceTest_nowcastTrial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" afterPath="$PROJECT_DIR$/Bayesian_ParallelNowcasts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" afterPath="$PROJECT_DIR$/Bayesian_ParallelPosterioris.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" afterPath="$PROJECT_DIR$/Nowcasting - BayesianApproach.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3-Final-Trial2-FullSample.ipynb" afterPath="$PROJECT_DIR$/Nowcasting - MARSS-2-Not using magic-DS3-Final-Trial2-FullSample.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -780,10 +45,13 @@
       <file leaf-file-name="Bayesian_ParallelPosterioris.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bayesian_ParallelPosterioris.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="151" column="25" lean-forward="false" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+            <state relative-caret-position="645">
+              <caret line="128" column="30" lean-forward="false" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
               <folding>
-                <marker date="1502719538513" expanded="true" signature="12009:12599" ph="..." />
+                <marker date="1502727921023" expanded="true" signature="12235:12825" ph="..." />
+                <marker date="1502727921023" expanded="true" signature="12235:13066" ph="..." />
+                <marker date="1502727921023" expanded="true" signature="12268:12467" ph="..." />
+                <marker date="1502727921023" expanded="true" signature="12519:12825" ph="..." />
               </folding>
             </state>
           </provider>
@@ -792,9 +60,12 @@
       <file leaf-file-name="Bayesian_ParallelNowcasts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6086">
+            <state relative-caret-position="6511">
               <caret line="388" column="0" lean-forward="false" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1502727920983" expanded="true" signature="13899:13900" ph="..." />
+                <marker date="1502727920983" expanded="true" signature="13899:14025" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1095,11 +366,11 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25820568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25820568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.50656456" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150986" sideWeight="0.49343544" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33150986" sideWeight="0.49562362" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33150986" sideWeight="0.49562362" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1107,12 +378,23 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36105034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.50656456" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150986" sideWeight="0.49343544" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33150986" sideWeight="0.49562362" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25820568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36105034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1185,7 +467,10 @@
         <state relative-caret-position="2516">
           <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding>
-            <marker date="1502719538513" expanded="true" signature="12009:12599" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:12825" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:13066" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12268:12467" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12519:12825" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1339,7 +624,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="388" column="0" lean-forward="false" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1502727920983" expanded="true" signature="13899:13900" ph="..." />
+            <marker date="1502727920983" expanded="true" signature="13899:14025" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1348,7 +636,10 @@
         <state relative-caret-position="17">
           <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding>
-            <marker date="1502719538513" expanded="true" signature="12009:12599" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:12825" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:13066" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12268:12467" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12519:12825" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1500,18 +791,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bayesian_ParallelNowcasts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6086">
+        <state relative-caret-position="6511">
           <caret line="388" column="0" lean-forward="false" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1502727920983" expanded="true" signature="13899:13900" ph="..." />
+            <marker date="1502727920983" expanded="true" signature="13899:14025" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bayesian_ParallelPosterioris.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="151" column="25" lean-forward="false" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+        <state relative-caret-position="645">
+          <caret line="128" column="30" lean-forward="false" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
           <folding>
-            <marker date="1502719538513" expanded="true" signature="12009:12599" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:12825" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12235:13066" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12268:12467" ph="..." />
+            <marker date="1502727921023" expanded="true" signature="12519:12825" ph="..." />
           </folding>
         </state>
       </provider>
