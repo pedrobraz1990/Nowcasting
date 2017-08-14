@@ -389,7 +389,11 @@ def loadDf(pubDate):
 
 def dumpResults(priorsTable, Z, T, Q, H, R, cutY, coefsIndex, n, filename1, filename2):
     start_time = time.time()
-    posterior = MH(priorsTable, Z, T, Q, H, R, cutY.T, coefsIndex, n, filename1)['posterior']
+
+    if not os.path.exists(filename1):
+        posterior = MH(priorsTable, Z, T, Q, H, R, cutY.T, coefsIndex, n, filename1)['posterior']
+    else:
+        posterior = pd.read_pickle(filename1)
 
     cutY = np.array(cutY)
 
