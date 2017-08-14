@@ -36,7 +36,7 @@ pd.set_option('max_rows', 100)
 dataDetailsSheet = "Plan2"
 
 picklesDir = "./Pickles/"
-
+4o
 
 priorsTable = pd.read_pickle('./PerformanceTestPickles/priorsTable')
 Z = pd.read_pickle('./PerformanceTestPickles/Z')
